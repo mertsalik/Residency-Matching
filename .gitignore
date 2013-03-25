@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+# others
+Debug
+*.obj
+*.tlog
