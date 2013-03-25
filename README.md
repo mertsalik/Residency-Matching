@@ -7,7 +7,7 @@ The Residency Matching algorithm pairs medical school graduates(residents) and r
 
 **Windows**
 
-This solution developed in C++ on Microsoft Visual Studio 2012 as Console Application. You can run and compile it in your way :)
+This solution developed in C++ on Microsoft Visual Studio 2012 as a Console Application. You can run and compile it in your way :)
 
 
 **For Linux/Unix**
