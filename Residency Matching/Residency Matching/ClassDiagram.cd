@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="Mert Salık&#xD;&#xA;25 March 2013">
+    <Position X="4.312" Y="3.938" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="Algorithm">
+    <Position X="4" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAAAAAAAAAAAAAAEAAAgAAAAABAQAAAAAAQACQA=</HashCode>
+      <FileName>Algorithm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GaleShapleyAlgorithm">
+    <Position X="7.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAABAAgQIAAEABEAAAAAAIAAAgAAAABAAAACAA=</HashCode>
+      <FileName>GaleShapleyAlgorithm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helpers">
+    <Position X="11.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAACAAAEwAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Helpers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Problem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StableMatchingProblem">
+    <Position X="1" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QBAAAAAAAAAAgAEAAAIAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>StableMatchingProblem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="CustomList" Collapsed="true">
+    <Position X="11.25" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="Map" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
