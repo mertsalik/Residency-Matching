@@ -51,4 +51,30 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="data1_h1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="data1_r1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="data2_h2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="data2_r2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="data3_h3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="data3_r3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="data4_r4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="data4_h4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

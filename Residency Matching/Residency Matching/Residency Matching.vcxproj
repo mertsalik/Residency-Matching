@@ -90,6 +90,16 @@
     <ClCompile Include="Problem.cpp" />
     <ClCompile Include="StableMatchingProblem.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="data1_h1.txt" />
+    <Text Include="data1_r1.txt" />
+    <Text Include="data2_h2.txt" />
+    <Text Include="data2_r2.txt" />
+    <Text Include="data3_h3.txt" />
+    <Text Include="data3_r3.txt" />
+    <Text Include="data4_h4.txt" />
+    <Text Include="data4_r4.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
